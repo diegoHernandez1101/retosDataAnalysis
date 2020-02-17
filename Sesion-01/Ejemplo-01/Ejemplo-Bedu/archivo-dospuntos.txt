@@ -1,0 +1,5 @@
+usuario::id::ranking
+diego::13::6
+luis::14::4
+edgar::19::9
+pamela::20::1

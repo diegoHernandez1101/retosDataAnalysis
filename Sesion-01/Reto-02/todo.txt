@@ -1,0 +1,7 @@
+pwd - ubicaciòn en consola
+mkdir- crear directorios
+cd mover entre directorios
+terminal-chuleta.1.txt
+pwd - ubicaciòn en consola
+mkdir- crear directorios
+cd mover entre directorios

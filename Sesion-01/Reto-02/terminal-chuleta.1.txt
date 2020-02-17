@@ -1,0 +1,3 @@
+pwd - ubicaciòn en consola
+mkdir- crear directorios
+cd mover entre directorios
